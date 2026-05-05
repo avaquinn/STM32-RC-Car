@@ -1,4 +1,4 @@
-\# STM32 RC Car
+# STM32 RC Car
 
 
 
@@ -6,29 +6,29 @@ This project controls a 2WD RC car using an STM32 NUCLEO-L476RG. The STM32 recei
 
 
 
-\## Hardware
+## Hardware
 
-\- STM32 NUCLEO-L476RG
+- STM32 NUCLEO-L476RG
 
-\- DRV8833 dual H-bridge motor driver
+- DRV8833 dual H-bridge motor driver
 
-\- HC-05 Bluetooth module
+- HC-05 Bluetooth module
 
-\- ADXL345 accelerometer
+- ADXL345 accelerometer
 
-\- 2 DC motors
+- 2 DC motors
 
-\- 4xAA battery pack
+- 4xAA battery pack
 
 
 
-\## Features
+## Features
 
-\- Bluetooth UART control
+- Bluetooth UART control
 
-\- PWM motor control
+- PWM motor control
 
-\- Forward, backward, left, right, and stop commands
+- Forward, backward, left, right, and stop commands
 
-\- Accelerometer-based brake light logic
+- Accelerometer-based velocity indicator led logic
 
