@@ -2,8 +2,7 @@
 
 
 
-This project controls a 2WD RC car using an STM32 NUCLEO-L476RG. The STM32 receives Bluetooth UART commands, drives two DC motors through a DRV8833 motor driver, and uses an ADXL345 accelerometer for brake light behavior.
-
+This project controls a 2WD RC car using an STM32 NUCLEO-L476RG. The STM32 receives Bluetooth UART commands, drives two DC motors through a DRV8833 motor driver, and uses an ADXL345 accelerometer for velocity indicator led logic. 
 
 
 ## Hardware
